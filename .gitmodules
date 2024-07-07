@@ -61,3 +61,42 @@
 [submodule "Easy/Stats-preview-card"]
 	path = Easy/Stats-preview-card
 	url = https://github.com/PhosRunia28/Stats-preview-card
+[submodule "Junior/blogr_landing_page"]
+	path = Junior/blogr_landing_page
+	url = https://github.com/PhosRunia28/blogr_landing_page
+[submodule "Junior/crowdfunding_product_page"]
+	path = Junior/crowdfunding_product_page
+	url = https://github.com/PhosRunia28/crowdfunding_product_page
+[submodule "Junior/Fylo-Data-Storage"]
+	path = Junior/Fylo-Data-Storage
+	url = https://github.com/PhosRunia28/Fylo-Data-Storage
+[submodule "Junior/Insure-Landing-Page"]
+	path = Junior/Insure-Landing-Page
+	url = https://github.com/PhosRunia28/Insure-Landing-Page
+[submodule "Junior/Interactive-Card-Details-Form"]
+	path = Junior/Interactive-Card-Details-Form
+	url = https://github.com/PhosRunia28/Interactive-Card-Details-Form
+[submodule "Junior/Intro-Section-with-Dropdown-Navigation"]
+	path = Junior/Intro-Section-with-Dropdown-Navigation
+	url = https://github.com/PhosRunia28/Intro-Section-with-Dropdown-Navigation
+[submodule "Junior/News-Homepage"]
+	path = Junior/News-Homepage
+	url = https://github.com/PhosRunia28/News-Homepage
+[submodule "Junior/Newsletter-Sign-Up"]
+	path = Junior/Newsletter-Sign-Up
+	url = https://github.com/PhosRunia28/Newsletter-Sign-Up
+[submodule "Junior/notification-page"]
+	path = Junior/notification-page
+	url = https://github.com/PhosRunia28/notification-page
+[submodule "Junior/pricing_component_with_toggle"]
+	path = Junior/pricing_component_with_toggle
+	url = https://github.com/PhosRunia28/pricing_component_with_toggle
+[submodule "Junior/Project-Tracking-Intro-Component"]
+	path = Junior/Project-Tracking-Intro-Component
+	url = https://github.com/PhosRunia28/Project-Tracking-Intro-Component
+[submodule "Junior/Social-Media-Dashboard-with-Theme"]
+	path = Junior/Social-Media-Dashboard-with-Theme
+	url = https://github.com/PhosRunia28/Social-Media-Dashboard-with-Theme
+[submodule "Junior/Sunnyside-Agency-Landing-Page"]
+	path = Junior/Sunnyside-Agency-Landing-Page
+	url = https://github.com/PhosRunia28/Sunnyside-Agency-Landing-Page
